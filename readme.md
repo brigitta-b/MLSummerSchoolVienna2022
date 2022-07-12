@@ -3,7 +3,7 @@
 **ESI-DCAFM-TACO-VDSP Summer School** \
 11.07 - 22.07. 2022 in Vienna, Austria, [official website here](https://vds-physics.univie.ac.at/activities-benefits/activities/schools-academies/summer-school-2022/).
 
-## Tuesday tutorial session
+## Tuesday tutorial session -- personal version
 
 **Date**: 12.07.2022, 14:00 - 17:00 \
 **Tutor**: Pavol Harar [(orcid)](https://orcid.org/0000-0001-5206-1794) \
